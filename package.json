@@ -1,0 +1,29 @@
+{
+  "name": "davilalaw.github.io",
+  "version": "1.0.0",
+  "description": "law firm",
+  "main": "index.html",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davilalaw/davilalaw.github.io.git"
+  },
+  "keywords": [
+    "law",
+    "firm",
+    "legal",
+    "group"
+  ],
+  "author": "David Davila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davilalaw/davilalaw.github.io/issues"
+  },
+  "homepage": "https://github.com/davilalaw/davilalaw.github.io#readme"
+}
